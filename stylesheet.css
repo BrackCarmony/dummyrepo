@@ -1,5 +1,13 @@
 p {
   background-color: blue;
+
   font-size: 50px;
+
+  border:1px solid saddlebrown;
+}
+
+.style {
+  background-color: mintcream;
+  border:1px solid saddlebrown;
 
 }
